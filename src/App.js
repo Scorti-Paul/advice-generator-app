@@ -5,7 +5,7 @@ import iconDice from './assets/icon-dice.svg'
 function App() {
   return (
     <main>
-      <div className='bg-darkGrayishBlue mx-auto sm:w-11/12 md:w-2/5 px-8 pt-10 pb-12 rounded-xl text-center'>
+      <div className='bg-darkGrayishBlue mx-auto sm:w-11/12 md:w-2/5 px-6 pt-10 pb-12 rounded-xl text-center'>
         <h1 className='text-neonGreen/80 text-sm font-bold tracking-[3px] '>ADVICE #117</h1>
         <blockquote className='text-lightCyan font-[800] text-[28px] py-4 leading-9'>
           "It is easy to sit up and take notice, what's difficult is getting up and taking action."
