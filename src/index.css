@@ -9,9 +9,9 @@
     0 0 40px hsl(150, 100%, 66%);
 }
 
+
 @layer base {
   body {
-    @apply font-['Manrope'] h-screen flex justify-center items-center bg-darkBlue p-6
+    @apply font-['Manrope'] h-screen flex justify-center items-center bg-darkBlue
   }
-
 }
